@@ -16,7 +16,7 @@ Adafruit_NeoMatrix matrix = Adafruit_NeoMatrix(8, 8, 4, 4, PIN,
   NEO_GRB + NEO_KHZ800);
 // Go to the Project Settings (nut icon).
 char ssid[] = "MGBot";
-char pass[] = "Terminator812";
+char pass[] = "Terminator812"; //pass
 char auth[] = "eea222d055284eaba5a573b508db471e";
 IPAddress blynk_ip(139, 59, 206, 133);
 const uint16_t colors[] = {
